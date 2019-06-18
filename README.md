@@ -1,2 +1,2 @@
 # infected_cells_classification
-Classification of malaria infected cells excercise
+CNN classification of malaria infected/uninfected cells excercise
